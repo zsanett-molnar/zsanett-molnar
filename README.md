@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Molnar Zsanett-Ingrid 
 
-• Student at Technical University Of Cluj-Napoca, Computer Science specialization :mortar_board:  
+• Graduated from the Technical University of Cluj-Napoca with a specialization in Information Technology :mortar_board:  
 
 • Passionate about programming and technology :computer:  
 
